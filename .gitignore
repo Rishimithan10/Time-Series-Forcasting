@@ -1,0 +1,13 @@
+echo "# Data files
+data/
+*.csv
+*.zip
+*.json
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env" > .gitignore
